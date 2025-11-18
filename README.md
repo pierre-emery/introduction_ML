@@ -67,12 +67,9 @@ pip install -r requirements.txt
 Classical ML (heart disease)
 From the root of the repository:
 
-bash
-Copy code
 cd classical
-python main.py    # adjust arguments if needed, see the end of main.py for options
+python main.py    # adjust arguments, see the end of main.py for options
 Deep learning (DermaMNIST)
-bash
-Copy code
+
 cd deep
-python main.py    # adjust arguments if needed, see the end of main.py for options
+python main.py    # adjust arguments, see the end of main.py for options
